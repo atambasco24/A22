@@ -9,7 +9,7 @@ V1: The first version. This integration is dependent on a circuit that uses 2 mo
         -first version created
         -its shit
         -wiring diagram created
-        -also shit
+        -also shit 
 
 V3: I skipped V2 just because I felt like it.
     This version reflects the obvious problems introduced in V1. The entire circuit was rewired to reflect the decision to integrate the motors without a MOSFET. 
